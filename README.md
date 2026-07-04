@@ -29,17 +29,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavSakkarwal&show_icons=true&theme=tokyonight" alt="Vaibhav's GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSakkarwal&theme=tokyonight" alt="Vaibhav's GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSakkarwal&layout=compact&theme=tokyonight" alt="Vaibhav's Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VaibhavSakkarwal&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Vaibhav's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSakkarwal&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Vaibhav's GitHub Streak"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSakkarwal&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Vaibhav's Top Languages"
+  />
+</p>
 ## GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VaibhavSakkarwal&theme=onestar&no-frame=true" alt="Vaibhav's Trophies"/>
