@@ -65,7 +65,7 @@
 
 ## Achievements
 - Solved 150+ problems on coding platforms.
-- Participated in technical competitions.
+- Participated in technical competitions(SIH, Adobe Hackathon and many more).
 
 ## Connect with Me
 - **GitHub**: [github.com/VaibhavSakkarwal](https://github.com/VaibhavSakkarwal)
